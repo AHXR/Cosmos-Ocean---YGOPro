@@ -1,4 +1,13 @@
-# Cosmos Ocean - YGOPro-Fan-Man-Archetype - TOC
+# Cosmos Ocean - YGOPro-Fan-Man-Archetype
+
+* [Overview](http://github.com/AHXR/Cosmos-Ocean---YGOPro#overview)
+* [Strengths & Weaknesses](http://github.com/AHXR/Cosmos-Ocean---YGOPro#strengths--weaknesses)
+  * [Strengths](http://github.com/AHXR/Cosmos-Ocean---YGOPro#strengths)
+* [Video (Cosmos Ocean vs Fire Fist - MATCH)](http://github.com/AHXR/Cosmos-Ocean---YGOPro#video--osmos-ocean-vs-fire-fist--match-)
+* [Cards](http://github.com/AHXR/Cosmos-Ocean---YGOPro#cards)
+  * [Monsters](http://github.com/AHXR/Cosmos-Ocean---YGOPro#monsters)
+  * [Synchro Monsters](http://github.com/AHXR/Cosmos-Ocean---YGOPro#synchro-monsters)
+* [Spells](http://github.com/AHXR/Cosmos-Ocean---YGOPro#spells)=
 
 ## Overview
 
@@ -47,7 +56,7 @@ The Synchro Pendulum Monsters share the following effect:
 ## Video (Cosmos Ocean vs Fire Fist - MATCH)
 
 <p align="center">
-	<a href=""><img src="https://i.imgur.com/vnqGxQj.jpg?1" /></a>
+	**Coming soon...**
 </p>
 
 ## Cards
