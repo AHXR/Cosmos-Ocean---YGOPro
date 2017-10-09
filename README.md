@@ -3,11 +3,13 @@
 * [Overview](http://github.com/AHXR/Cosmos-Ocean---YGOPro#overview)
 * [Strengths & Weaknesses](http://github.com/AHXR/Cosmos-Ocean---YGOPro#strengths--weaknesses)
   * [Strengths](http://github.com/AHXR/Cosmos-Ocean---YGOPro#strengths)
+  * [Weaknesses](http://github.com/AHXR/Cosmos-Ocean---YGOPro#weaknesses)
 * [Video (Cosmos Ocean vs Fire Fist - MATCH)](http://github.com/AHXR/Cosmos-Ocean---YGOPro#video--osmos-ocean-vs-fire-fist--match-)
 * [Cards](http://github.com/AHXR/Cosmos-Ocean---YGOPro#cards)
   * [Monsters](http://github.com/AHXR/Cosmos-Ocean---YGOPro#monsters)
   * [Synchro Monsters](http://github.com/AHXR/Cosmos-Ocean---YGOPro#synchro-monsters)
 * [Spells](http://github.com/AHXR/Cosmos-Ocean---YGOPro#spells)
+
 
 ## Overview
 
@@ -35,6 +37,7 @@ The non-Synchro Pendulum Monsters share the following effect:
 The Synchro Pendulum Monsters share the following effect:
 >If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone.
 
+
 ## Strengths & Weaknesses
 
 ### Strengths
@@ -53,13 +56,16 @@ The Synchro Pendulum Monsters share the following effect:
 - Self-Destruction is a possibility, but is required if you want to use your Synchro Pendulum Monster effects.
 - Despite some of the Synchro Monsters having strong Pendulum effects, it's a liability to get them in your Pendulum zone.
 
+
 ## Video (Cosmos Ocean vs Fire Fist - MATCH)
 
 <p align="center">
 	**Coming soon...**
 </p>
 
+
 ## Cards
+
 
 ### Monsters
 | Name (Cosmos Ocean - #)       	| LVL  | Type  | Effect (Click Image Link)	|
@@ -71,6 +77,7 @@ The Synchro Pendulum Monsters share the following effect:
 | Giving | 1 | Warrior | [Card Image Link](https://i.imgur.com/vKsY2tA.jpg) |
 | Pure Potentiality | 1 | Warrior / Tuner | [Card Image Link](https://i.imgur.com/RGHu02U.jpg) |
 | Intention & Desire | 1 | Spellcaster / Tuner | [Card Image Link](https://i.imgur.com/xECpR9H.jpg) |
+
 
 #### Synchro Monsters
 | Name (Cosmos Ocean - #)       	| LVL  | Type  | Effect (Click Image Link)	|
@@ -86,6 +93,7 @@ The Synchro Pendulum Monsters share the following effect:
 | Bliss | 5 | Warrior | [Card Image Link](https://i.imgur.com/4nuz5dk.jpg) |
 | Meditate | 5 | Warrior | [Card Image Link](https://i.imgur.com/CVi4r5p.jpg) |
 | Grateful | 2 | Sea Serpent / Tuner | [Card Image Link](https://i.imgur.com/0IFsWeK.jpg) |
+
 
 ## Spells
 | Name (Cosmos Ocean - #)           | Type  | Effect (Click Image Link)	|
