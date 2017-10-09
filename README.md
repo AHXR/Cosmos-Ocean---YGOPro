@@ -53,8 +53,8 @@ The Synchro Pendulum Monsters share the following effect:
 
 ## Cards
 
-<p align="center">
 ### Monsters
+<p align="center">
 | Name (Cosmos Ocean - #)       	| LVL  | Type  | Effect (Click Image Link)	|
 | :-------------------------------: | :--: | :---: | :--------------------------: |
 | Detachment | 6 | Spellcaster | [Card Image Link](https://i.imgur.com/14BL1gP.jpg) |
@@ -64,9 +64,11 @@ The Synchro Pendulum Monsters share the following effect:
 | Giving | 1 | Warrior | [Card Image Link](https://i.imgur.com/vKsY2tA.jpg) |
 | Pure Potentiality | 1 | Warrior / Tuner | [Card Image Link](https://i.imgur.com/RGHu02U.jpg) |
 | Intention & Desire | 1 | Spellcaster / Tuner | [Card Image Link](https://i.imgur.com/xECpR9H.jpg) |
+</p>
 
 
 #### Synchro Monsters
+<p align="center">
 | Name (Cosmos Ocean - #)       	| LVL  | Type  | Effect (Click Image Link)	|
 | :-------------------------------: | :--: | :---: | :--------------------------: |
 | Om | 8 | Warrior | [Card Image Link](https://i.imgur.com/KYv336i.jpg) |
@@ -80,9 +82,10 @@ The Synchro Pendulum Monsters share the following effect:
 | Bliss | 5 | Warrior | [Card Image Link](https://i.imgur.com/4nuz5dk.jpg) |
 | Meditate | 5 | Warrior | [Card Image Link](https://i.imgur.com/CVi4r5p.jpg) |
 | Grateful | 2 | Sea Serpent / Tuner | [Card Image Link](https://i.imgur.com/0IFsWeK.jpg) |
-
+</p>
 
 ## Spells
+<p align="center">
 | Name (Cosmos Ocean - #)           | Type  | Effect (Click Image Link)	|
 | :-------------------------------: | :--:  | :-----------------------: |
 | Galaxy Wishes | Field | [Card Image Link](https://i.imgur.com/2hlv1Wr.jpg) |
