@@ -1,18 +1,5 @@
 # Cosmos Ocean - YGOPro-Fan-Man-Archetype
 
-* [Overview](http://github.com/AHXR/Cosmos-Ocean---YGOPro#overview)
-* [Strengths & Weaknesses](http://github.com/AHXR/Cosmos-Ocean---YGOPro#strengths--weaknesses)
-  * [Strengths](http://github.com/AHXR/Cosmos-Ocean---YGOPro#strengths)
-  * [Weaknesses](http://github.com/AHXR/Cosmos-Ocean---YGOPro#weaknesses)
-* [Video (Cosmos Ocean vs Fire Fist - MATCH)](http://github.com/AHXR/Cosmos-Ocean---YGOPro#video--osmos-ocean-vs-fire-fist--match-)
-* [Cards](http://github.com/AHXR/Cosmos-Ocean---YGOPro#cards)
-  * [Monsters](http://github.com/AHXR/Cosmos-Ocean---YGOPro#monsters)
-  * [Synchro Monsters](http://github.com/AHXR/Cosmos-Ocean---YGOPro#synchro-monsters)
-* [Spells](http://github.com/AHXR/Cosmos-Ocean---YGOPro#spells)
-
-
-## Overview
-
 <p align="center">
 	<img src="https://i.imgur.com/vnqGxQj.jpg?1" /> <img width="406" height="592" src="https://i.imgur.com/iLD3Vyl.jpg" />
 </p>
@@ -66,7 +53,7 @@ The Synchro Pendulum Monsters share the following effect:
 
 ## Cards
 
-
+<p align="center">
 ### Monsters
 | Name (Cosmos Ocean - #)       	| LVL  | Type  | Effect (Click Image Link)	|
 | :-------------------------------: | :--: | :---: | :--------------------------: |
@@ -100,3 +87,4 @@ The Synchro Pendulum Monsters share the following effect:
 | :-------------------------------: | :--:  | :-----------------------: |
 | Galaxy Wishes | Field | [Card Image Link](https://i.imgur.com/2hlv1Wr.jpg) |
 | Attraction | Field | [Card Image Link](https://i.imgur.com/pOoa2LY.jpg) |
+</p>
