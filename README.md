@@ -7,7 +7,7 @@
 * [Cards](http://github.com/AHXR/Cosmos-Ocean---YGOPro#cards)
   * [Monsters](http://github.com/AHXR/Cosmos-Ocean---YGOPro#monsters)
   * [Synchro Monsters](http://github.com/AHXR/Cosmos-Ocean---YGOPro#synchro-monsters)
-* [Spells](http://github.com/AHXR/Cosmos-Ocean---YGOPro#spells)=
+* [Spells](http://github.com/AHXR/Cosmos-Ocean---YGOPro#spells)
 
 ## Overview
 
