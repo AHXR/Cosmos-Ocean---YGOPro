@@ -68,6 +68,7 @@ The Synchro Pendulum Monsters share the following effect:
 #### Synchro Monsters
 | Name (Cosmos Ocean - #)       	| LVL  | Type  | Effect (Click Image Link)	|
 | :-------------------------------: | :--: | :---: | :--------------------------: |
+| Eternity | 10 | Warrior | [Card Image Link](https://i.imgur.com/1G54EEj.jpg) |
 | Om | 8 | Warrior | [Card Image Link](https://i.imgur.com/KYv336i.jpg) |
 | Destiny | 8 | Warrior | [Card Image Link](https://i.imgur.com/Cf5PxnB.jpg) |
 | Non-Judgment | 7 | Warrior | [Card Image Link](https://i.imgur.com/BBXN5Kr.jpg) |
@@ -86,3 +87,4 @@ The Synchro Pendulum Monsters share the following effect:
 | :-------------------------------: | :--:  | :-----------------------: |
 | Galaxy Wishes | Field | [Card Image Link](https://i.imgur.com/2hlv1Wr.jpg) |
 | Attraction | Field | [Card Image Link](https://i.imgur.com/pOoa2LY.jpg) |
+| Paradise | Field | [Card Image Link](https://i.imgur.com/1XOVhHg.jpg) |

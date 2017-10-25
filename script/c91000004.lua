@@ -128,5 +128,5 @@ function c91000004.spcon(e,c)
 	local tc=Duel.GetFieldCard(tp,LOCATION_SZONE,13-seq)
 	local chk2=tc and tc:IsAttribute(ATTRIBUTE_WATER)
 	
-	return ( chk1 and chk2 )
+	return chk1 and chk2
 end
