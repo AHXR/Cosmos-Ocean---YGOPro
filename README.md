@@ -60,7 +60,7 @@ The Synchro Pendulum Monsters share the following effect:
 | Dharma | 4 | Warrior | [Card Image Link](https://i.imgur.com/PKysuVo.jpg) |
 | Karma  | 4 | Spellcaster / Tuner | [Card Image Link](https://i.imgur.com/mIawnB3.jpg) |
 | Least Effort | 4 | Fairy | [Card Image Link](https://i.imgur.com/gWvzmdd.jpg) |
-| Giving | 1 | Warrior | [Card Image Link](https://i.imgur.com/vKsY2tA.jpg) |
+| Giving | 1 | Warrior | [Card Image Link](https://i.imgur.com/ePNWwej.jpg) |
 | Pure Potentiality | 1 | Warrior / Tuner | [Card Image Link](https://i.imgur.com/RGHu02U.jpg) |
 | Intention & Desire | 1 | Spellcaster / Tuner | [Card Image Link](https://i.imgur.com/xECpR9H.jpg) |
 
