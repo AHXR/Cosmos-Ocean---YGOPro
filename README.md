@@ -47,7 +47,7 @@ The Synchro Pendulum Monsters share the following effect:
 ## Video (Cosmos Ocean vs Fire Fist - MATCH)
 
 <p align="center">
-	[vs Fire Fist](https://youtu.be/6WIaH45Jt_4) - 1.1 PATCH
+	<a href="https://youtu.be/6WIaH45Jt_4">vs Fire First</a> - 1.1 PATCH
 </p>
 
 
