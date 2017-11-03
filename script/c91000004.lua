@@ -120,13 +120,8 @@ function c91000004.ssfilter(c)
 	return c:IsFaceup() and c:IsAttribute(ATTRIBUTE_WATER) and c:IsType(TYPE_SYNCHRO)
 end
 function c91000004.spcon(e,c)
-	if c==nil then return true end
-	
-	local chk1=Duel.GetLocationCount(c:GetControler(),LOCATION_MZONE)>0 and	Duel.IsExistingMatchingCard(c91000004.ssfilter,c:GetControler(),LOCATION_MZONE,0,1,nil)
-	
+	local c1 = Duel.GetMatchingGroupCount(c91000004.ssfilter,tp,LOCATION_MZONE,0,e:GetHandler() )
 	local seq=e:GetHandler():GetSequence()
-	local tc=Duel.GetFieldCard(tp,LOCATION_SZONE,13-seq)
-	local chk2=tc and tc:IsAttribute(ATTRIBUTE_WATER)
-	
-	return chk1 and chk2
+	local pc=Duel.GetFieldCard(tp,LOCATION_SZONE,13-seq)
+	return c1>=1 and pc and pc:IsAttribute(ATTRIBUTE_WATER)
 end

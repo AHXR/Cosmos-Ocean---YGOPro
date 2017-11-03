@@ -60,7 +60,7 @@ The Synchro Pendulum Monsters share the following effect:
 | Dharma | 4 | Warrior | [Card Image Link](https://i.imgur.com/PKysuVo.jpg) |
 | Karma  | 4 | Spellcaster / Tuner | [Card Image Link](https://i.imgur.com/mIawnB3.jpg) |
 | Least Effort | 4 | Fairy | [Card Image Link](https://i.imgur.com/gWvzmdd.jpg) |
-| Giving | 1 | Warrior | [Card Image Link](https://i.imgur.com/ePNWwej.jpg) |
+| Giving | 1 | Warrior | [Card Image Link](https://i.imgur.com/x3DkGy6.jpg) |
 | Pure Potentiality | 1 | Warrior / Tuner | [Card Image Link](https://i.imgur.com/RGHu02U.jpg) |
 | Intention & Desire | 1 | Spellcaster / Tuner | [Card Image Link](https://i.imgur.com/xECpR9H.jpg) |
 
@@ -77,7 +77,8 @@ The Synchro Pendulum Monsters share the following effect:
 | Flow | 5 | Warrior / Tuner | [Card Image Link](https://i.imgur.com/17EezEp.jpg) |
 | Abundance | 5 | Sea Serpent | [Card Image Link](https://i.imgur.com/XAbYcop.jpg) |
 | Fufillment | 5 | Warrior / Tuner | [Card Image Link](https://i.imgur.com/h4IU5zq.jpg) |
-| Bliss | 5 | Warrior | [Card Image Link](https://i.imgur.com/4nuz5dk.jpg) |
+| Bliss | 5 | Warrior | [Card Image Link](https://i.imgur.com/fWQVRAz.jpg) |
+| Euphoria | 5 | Spellcaster / Tuner | [Card Image Link](https://i.imgur.com/lqwR8I4.jpg) |
 | Meditate | 5 | Warrior | [Card Image Link](https://i.imgur.com/CVi4r5p.jpg) |
 | Grateful | 2 | Sea Serpent / Tuner | [Card Image Link](https://i.imgur.com/0IFsWeK.jpg) |
 
@@ -88,3 +89,6 @@ The Synchro Pendulum Monsters share the following effect:
 | Galaxy Wishes | Field | [Card Image Link](https://i.imgur.com/2hlv1Wr.jpg) |
 | Attraction | Field | [Card Image Link](https://i.imgur.com/pOoa2LY.jpg) |
 | Paradise | Field | [Card Image Link](https://i.imgur.com/1XOVhHg.jpg) |
+| Understanding | Field | [Card Image Link](https://i.imgur.com/DqwkRsl.jpg) |
+| Transparency | Continuous Spell | [Card Image Link](https://i.imgur.com/G3koVsQ.jpg) |
+| City Horizon | Continuous Spell | [Card Image Link](https://i.imgur.com/o96To9l.jpg) |

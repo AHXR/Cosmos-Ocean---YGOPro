@@ -153,18 +153,14 @@ function c91000002.filter(c)
 end
 function c91000002.rectg(e,tp,eg,ep,ev,re,r,rp,chk)
 	if chk==0 then return true end
-	local ct=Duel.GetMatchingGroupCount(c91000002.filter,tp,LOCATION_MZONE,0,nil)
-	local ct2=Duel.GetMatchingGroupCount(c91000002.filter,tp,LOCATION_PZONE,0,nil)
-	local ctadd=ct+ct2
+	local ct=Duel.GetMatchingGroupCount(c91000002.filter,tp,LOCATION_ONFIELD,0,nil)
 	Duel.SetTargetPlayer(tp)
-	Duel.SetTargetParam((ctadd)*300)
-	Duel.SetOperationInfo(0,CATEGORY_RECOVER,nil,0,tp,(ctadd)*300)
+	Duel.SetTargetParam((ct)*300)
+	Duel.SetOperationInfo(0,CATEGORY_RECOVER,nil,0,tp,(ct)*300)
 end
 function c91000002.recop(e,tp,eg,ep,ev,re,r,rp)
-	local ct=Duel.GetMatchingGroupCount(c91000002.filter,tp,LOCATION_MZONE,0,nil)
-	local ct2=Duel.GetMatchingGroupCount(c91000002.filter,tp,LOCATION_PZONE,0,nil)
-	local ctadd=ct+ct2
-	Duel.Recover(tp,(ctadd)*300,REASON_EFFECT)
+	local ct=Duel.GetMatchingGroupCount(c91000002.filter,tp,LOCATION_ONFIELD,0,nil)
+	Duel.Recover(tp,(ct)*300,REASON_EFFECT)
 end
 
 function c91000002.splimit(e,c)
