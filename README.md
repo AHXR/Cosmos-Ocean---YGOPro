@@ -12,7 +12,6 @@ assigned to the card. **Cosmos Ocean - Karma** (card above) is an example of suc
 
 >When this card is destroyed and sent to the Graveyard: You can destroy the monster that destroyed it.
 
-* [Etymology](http://github.com/AHXR/Cosmos-Ocean-YGOPro#etymology)
 * [Playing Style](http://github.com/AHXR/Cosmos-Ocean-YGOPro#playing-style)
 	* [Generic Cosmos Synchro (Strict Cosmos Ocean Synchro Playstyle)](http://github.com/AHXR/Cosmos-Ocean-YGOPro#generic-cosmos-synchro--trict-cosmos-ocean-synchro-playstyle-)
 		* [Strengths](http://github.com/AHXR/Cosmos-Ocean-YGOPro#strengths)
