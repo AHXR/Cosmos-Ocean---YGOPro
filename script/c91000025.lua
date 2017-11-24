@@ -10,18 +10,19 @@ function c91000025.initial_effect(c)
 	
 	--Dharma
 	local e1=Effect.CreateEffect(c)
-	e1:SetType(EFFECT_TYPE_ACTIVATE)
 	e1:SetCode(EVENT_SPSUMMON_SUCCESS)
 	e1:SetType(EFFECT_TYPE_FIELD+EFFECT_TYPE_TRIGGER_F)
+	e1:SetRange(LOCATION_SZONE)
 	e1:SetCondition(c91000025.dhcondition)
 	e1:SetOperation(c91000025.dhactivate)
 	c:RegisterEffect(e1)
 	
 	--Kharma
 	local e2=Effect.CreateEffect(c)
-	e2:SetType(EFFECT_TYPE_ACTIVATE)
+	e2:SetType(EFFECT_TYPE_FIELD+EFFECT_TYPE_TRIGGER_F)
 	e2:SetCategory(CATEGORY_DAMAGE)
 	e2:SetCode(EVENT_ATTACK_DISABLED)
+	e2:SetRange(LOCATION_SZONE)
 	e2:SetProperty(EFFECT_FLAG_PLAYER_TARGET)
 	e2:SetCondition(c91000025.khcondition)
 	e2:SetTarget(c91000025.khtarget)
@@ -32,7 +33,8 @@ function c91000025.initial_effect(c)
 	local e4=Effect.CreateEffect(c)
 	e4:SetCategory(CATEGORY_SPECIAL_SUMMON)
 	e4:SetProperty(EFFECT_FLAG_CARD_TARGET)
-	e4:SetType(EFFECT_TYPE_ACTIVATE)
+	e4:SetType(EFFECT_TYPE_FIELD+EFFECT_TYPE_TRIGGER_F)
+	e4:SetRange(LOCATION_SZONE)
 	e4:SetCode(EVENT_BATTLE_DESTROYED)
 	e4:SetCondition(c91000025.lecondition)
 	e4:SetTarget(c91000025.letarget)
@@ -62,9 +64,10 @@ function c91000025.initial_effect(c)
 	
 	--Intention&Desire
 	local e7=Effect.CreateEffect(c)
-	e7:SetType(EFFECT_TYPE_ACTIVATE)
+	e7:SetType(EFFECT_TYPE_FIELD+EFFECT_TYPE_TRIGGER_F)
 	e7:SetCategory(CATEGORY_TOGRAVE+CATEGORY_HANDES)
 	e7:SetCode(EVENT_DRAW)
+	e7:SetRange(LOCATION_SZONE)
 	e7:SetCondition(c91000025.idcondition)
 	e7:SetTarget(c91000025.idtarget)
 	e7:SetOperation(c91000025.idactivate)
@@ -73,7 +76,8 @@ function c91000025.initial_effect(c)
 	--Pure Potentiality
 	local e8=Effect.CreateEffect(c)
 	e8:SetCategory(CATEGORY_DESTROY)
-	e8:SetType(EFFECT_TYPE_ACTIVATE)
+	e8:SetType(EFFECT_TYPE_FIELD+EFFECT_TYPE_TRIGGER_F)
+	e8:SetRange(LOCATION_SZONE)
 	e8:SetProperty(EFFECT_FLAG_CARD_TARGET)
 	e8:SetCode(EVENT_SPSUMMON_SUCCESS)
 	e8:SetCondition(c91000025.ppcondition)
@@ -107,7 +111,6 @@ end
 function c91000025.idcondition(e,tp,eg,ep,ev,re,r,rp)
 	local c1 = Duel.GetMatchingGroupCount(c91000025.idfilter,tp,LOCATION_ONFIELD,0,e:GetHandler() )
 	local c2 = Duel.GetMatchingGroupCount(c91000025.gsfilter,tp,LOCATION_ONFIELD,0,e:GetHandler() )
-	
 	return c1>0 and c2>0 and ep~=tp and bit.band(r,REASON_RULE)~=0
 end
 
@@ -228,7 +231,7 @@ function c91000025.leactivate(e,tp,eg,ep,ev,re,r,rp)
 end
 ---------------------------------------------------------------------------------------------
 function c91000025.khfilter(c)
-	return c:IsCode(91000000)
+	return c:IsCode(91000001)
 end
 function c91000025.khcondition(e,tp,eg,ep,ev,re,r,rp)
 	local a=Duel.GetAttacker()

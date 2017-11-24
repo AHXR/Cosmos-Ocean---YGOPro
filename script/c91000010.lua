@@ -65,10 +65,10 @@ function c91000010.ffilter(c)
 	return c:IsType(TYPE_FIELD) and c:IsFaceup() and c:IsAbleToHand()
 end
 function c91000010.frettg(e,tp,eg,ep,ev,re,r,rp,chk,chkc)
-	if chkc then return chkc:IsControler(1-tp) and ( chkc:IsOnField() or chkc:IsLocation(LOCATION_GRAVE) or chkc:IsLocation(LOCATION_REMOVED) ) and chkc:IsAbleToHand() end
-	if chk==0 then return Duel.IsExistingTarget(c91000010.ffilter,tp,LOCATION_SZONE,LOCATION_SZONE,1,nil) end
+--if chk==0 then return ( chkc:IsOnField() or chkc:IsLocation(LOCATION_GRAVE) or chkc:IsLocation(LOCATION_REMOVED) ) and chkc:IsAbleToHand() end
+	if chk==0 then return Duel.IsExistingTarget(c91000010.ffilter,tp,LOCATION_ONFIELD+LOCATION_GRAVE+LOCATION_REMOVED,LOCATION_ONFIELD+LOCATION_GRAVE+LOCATION_REMOVED,1,nil) end
 	Duel.Hint(HINT_SELECTMSG,tp,HINTMSG_RTOHAND)
-	local g=Duel.SelectTarget(tp,c91000010.ffilter,tp,LOCATION_SZONE+LOCATION_GRAVE+LOCATION_REMOVED,LOCATION_SZONE+LOCATION_GRAVE+LOCATION_REMOVED,1,1,nil)
+	local g=Duel.SelectTarget(tp,c91000010.ffilter,tp,LOCATION_ONFIELD+LOCATION_GRAVE+LOCATION_REMOVED,LOCATION_ONFIELD+LOCATION_GRAVE+LOCATION_REMOVED,1,1,nil)
 	Duel.SetOperationInfo(0,CATEGORY_TOHAND,g,1,0,0)
 end
 function c91000010.fretop(e)

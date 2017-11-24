@@ -1,4 +1,26 @@
-1.2 - Togetherness Update
+1.3 - Fusion Update (11/24/2017)
+
+Fusion Monster set added. See *Fusion Monsters* in README.md for more information.
+
+- Cosmos Ocean - Abundance effect fixed.
+- Cosmos Ocean - Understanding effect modified (BETA)
+
+New Cards Added (13):
+- Cosmos Ocean - Reconciliation
+- Cosmos Ocean - Ketheric
+- Cosmos Ocean - Tirthankara
+- Cosmos Ocean - Samsara
+- Cosmos Ocean - Lotus Dragon
+- Cosmos Ocean - Optimism
+- Cosmos Ocean - Evolution
+- Cosmos Ocean - Amplitude
+- Cosmos Ocean - Circulate
+- Cosmos Ocean - Concord
+- Cosmos Ocean - Natural
+- Cosmos Ocean - Spirit (Synchro)
+- Cosmos Ocean Dragon (Non-Fusion Effect Pendulum)
+
+1.2 - Togetherness Update (11/3/2017)
 
 - Cosmos Ocean - Giving effect fixed.
 - Cosmos Ocean - Understanding (Field Spell) added.
