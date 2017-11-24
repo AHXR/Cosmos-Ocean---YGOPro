@@ -70,6 +70,8 @@ As of the 1.3 update this archetype can be broken down into several different ca
 - Self-Destruction is a possibility, but is required if you want to use your Synchro Pendulum Monster effects.
 - Despite some of the Synchro Monsters having strong Pendulum effects, it's a liability to get them in your Pendulum zone.
 
+---
+
 ### Generic Cosmos Fusion (Strict Cosmos Ocean Fusion Playstyle)
 
 <p align="center">
@@ -91,6 +93,8 @@ As of the 1.3 update this archetype can be broken down into several different ca
 - Plays very slow early into a game
 - Underwhelming effects
 - Cards that negate effects renders these cards useless
+
+---
 
 ### Cosmos Fisherman (The Cosmos Ocean Legendary Fisherman [ANIME])
 
@@ -114,6 +118,8 @@ This deck relies on the anime card Inland
 - Synchro summoning is restricted due to level changes with spells
 - Combination counters will create dead draws
 - Card searching negating is a free win against this sub-archetype
+
+---
 
 ## Members
 
