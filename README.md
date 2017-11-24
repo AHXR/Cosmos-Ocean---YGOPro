@@ -12,6 +12,24 @@ assigned to the card. **Cosmos Ocean - Karma** (card above) is an example of suc
 
 >When this card is destroyed and sent to the Graveyard: You can destroy the monster that destroyed it.
 
+* [Etymology](http://github.com/AHXR/Cosmos-Ocean-YGOPro#etymology)
+* [Playing Style](http://github.com/AHXR/Cosmos-Ocean-YGOPro#playing-style)
+	* [Generic Cosmos Synchro (Strict Cosmos Ocean Synchro Playstyle)](http://github.com/AHXR/Cosmos-Ocean-YGOPro#generic-cosmos-synchro--trict-cosmos-ocean-synchro-playstyle-)
+		* [Strengths](http://github.com/AHXR/Cosmos-Ocean-YGOPro#strengths)
+		* [Weaknesses](http://github.com/AHXR/Cosmos-Ocean-YGOPro#weaknesses)
+	* [Generic Cosmos Fusion (Strict Cosmos Ocean Fusion Playstyle)](http://github.com/AHXR/Cosmos-Ocean-YGOPro#generic-cosmos-fusion--trict-cosmos-ocean-fusion-playstyle-)
+		* [Strengths](http://github.com/AHXR/Cosmos-Ocean-YGOPro#strengths)
+		* [Weaknesses](http://github.com/AHXR/Cosmos-Ocean-YGOPro#weaknesses)
+	* [Cosmos Fisherman (The Cosmos Ocean Legendary Fisherman [ANIME])](http://github.com/AHXR/Cosmos-Ocean-YGOPro#cosmos-fisherman--he-cosmos-ocean-legendary-fisherman--nime--)
+		* [Strengths](http://github.com/AHXR/Cosmos-Ocean-YGOPro#strengths)
+		* [Weaknesses](http://github.com/AHXR/Cosmos-Ocean-YGOPro#weaknesses)
+* [Members](http://github.com/AHXR/Cosmos-Ocean-YGOPro#members)
+	* [Monsters](http://github.com/AHXR/Cosmos-Ocean-YGOPro#monsters)
+		* [Synchro Monsters](http://github.com/AHXR/Cosmos-Ocean-YGOPro#synchro-monsters)
+		* [Fusion Monsters](http://github.com/AHXR/Cosmos-Ocean-YGOPro#fusion-monsters)
+	* [Spells](http://github.com/AHXR/Cosmos-Ocean-YGOPro#spells)
+
+
 ## Playing Style
 
 Since they are all related by name, they all share very similiar effects. One Pendulum effect that all Cosmos Ocean cards share is the following:
