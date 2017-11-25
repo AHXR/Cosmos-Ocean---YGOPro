@@ -1,3 +1,7 @@
+1.4 
+
+- Cosmos Ocean - Dharma code cleanup.
+
 1.3 - Fusion Update (11/24/2017)
 
 Fusion Monster set added. See *Fusion Monsters* in README.md for more information.
