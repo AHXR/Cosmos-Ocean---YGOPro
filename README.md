@@ -13,15 +13,18 @@ assigned to the card. **Cosmos Ocean - Karma** (card above) is an example of suc
 >When this card is destroyed and sent to the Graveyard: You can destroy the monster that destroyed it.
 
 * [Playing Style](http://github.com/AHXR/Cosmos-Ocean-YGOPro#playing-style)
-	* [Generic Cosmos Synchro (Strict Cosmos Ocean Synchro Playstyle)](http://github.com/AHXR/Cosmos-Ocean-YGOPro#generic-cosmos-synchro--trict-cosmos-ocean-synchro-playstyle-)
+	* [Generic Cosmos Synchro (Strict Cosmos Ocean Synchro Playstyle)](https://github.com/AHXR/Cosmos-Ocean-YGOPro#generic-cosmos-synchro-strict-cosmos-ocean-synchro-playstyle)
 		* [Strengths](http://github.com/AHXR/Cosmos-Ocean-YGOPro#strengths)
 		* [Weaknesses](http://github.com/AHXR/Cosmos-Ocean-YGOPro#weaknesses)
-	* [Generic Cosmos Fusion (Strict Cosmos Ocean Fusion Playstyle)](http://github.com/AHXR/Cosmos-Ocean-YGOPro#generic-cosmos-fusion--trict-cosmos-ocean-fusion-playstyle-)
+	* [Generic Cosmos Fusion (Strict Cosmos Ocean Fusion Playstyle)](https://github.com/AHXR/Cosmos-Ocean-YGOPro#generic-cosmos-fusion-strict-cosmos-ocean-fusion-playstyle)
 		* [Strengths](http://github.com/AHXR/Cosmos-Ocean-YGOPro#strengths-1)
 		* [Weaknesses](http://github.com/AHXR/Cosmos-Ocean-YGOPro#weaknesses-1)
-	* [Cosmos Fisherman (The Cosmos Ocean Legendary Fisherman [ANIME])](http://github.com/AHXR/Cosmos-Ocean-YGOPro#cosmos-fisherman--he-cosmos-ocean-legendary-fisherman--nime--)
+	* [Cosmos Fisherman (The Cosmos Ocean Legendary Fisherman [ANIME])](https://github.com/AHXR/Cosmos-Ocean-YGOPro#cosmos-fisherman-the-cosmos-ocean-legendary-fisherman-anime)
 		* [Strengths](http://github.com/AHXR/Cosmos-Ocean-YGOPro#strengths-2)
 		* [Weaknesses](http://github.com/AHXR/Cosmos-Ocean-YGOPro#weaknesses-2)
+	* [Cosmos HERO (Cosmos Ocean Masked HERO Fusion)](https://github.com/AHXR/Cosmos-Ocean-YGOPro#cosmos-ocean-masked-hero-fusion)
+		* [Strengths](http://github.com/AHXR/Cosmos-Ocean-YGOPro#strengths-3)
+		* [Weaknesses](http://github.com/AHXR/Cosmos-Ocean-YGOPro#weaknesses-4)
 * [Members](http://github.com/AHXR/Cosmos-Ocean-YGOPro#members)
 	* [Monsters](http://github.com/AHXR/Cosmos-Ocean-YGOPro#monsters)
 		* [Synchro Monsters](http://github.com/AHXR/Cosmos-Ocean-YGOPro#synchro-monsters)
@@ -102,7 +105,7 @@ As of the 1.3 update this archetype can be broken down into several different ca
 	<a href="https://youtu.be/gvAwpyJ-Tnc?t=420">vs Mermail</a> - 1.3 PATCH
 </p>
 
-This deck relies on the anime card Inland
+This deck relies on the anime card **Inland**
 >Activate only if there is a face-up card in the Field Zone. Field Magic Cards are treated as "Umi". Reduce the Level of all WATER monsters in your hand and on your side of the field by 1.
 
 #### Strengths
@@ -118,6 +121,32 @@ This deck relies on the anime card Inland
 - Synchro summoning is restricted due to level changes with spells
 - Combination counters will create dead draws
 - Card searching negating is a free win against this sub-archetype
+
+---
+
+### Cosmos HERO (Cosmos Ocean Masked HERO Fusion)
+
+<p align="center">
+	<a href="https://youtu.be/gvAwpyJ-Tnc?t=420">vs Constellar</a> - 1.4 PATCH
+</p>
+
+This deck relies on the Cosmos Ocean 1.4 card **Cosmos Ocean - Moonlight Entrust**
+>You can only control 1 face-up "Cosmos Ocean - Moonlight Entrust". When this card is activated, your opponent gains 2000 Life Points. Add 1 "Cosmos Ocean - Giving" from your Deck or face-up from your Extra Deck to your hand. While this card is face-up on the field, all Monsters in your Deck and in your hand are treated as WATER Monsters. If you control a "Cosmos Ocean - Self", this effect becomes active in the Graveyard. Once per turn while this card is in the Graveyard, you can target 1 monster you control; give control of it to your opponent and increase their Life Points by 500; add 1 Spell Card from your Graveyard to your hand.
+
+#### Strengths
+- Dynamic handling against certain archetypes
+- Freedom of using HERO Fusion monsters at ease.
+- Cosmos Ocean spell cards provide amazing search capabilities
+- Strong swarming ability
+- Great field control
+- Beatdown potential
+- OTK Potentiality
+- Field sweeping on demand
+
+#### Weaknesses
+- Relies too much on Cosmos Ocean - Moonlight Entrust
+- Spell/Trap destruction easily shuts this deck down
+- Poor salvaging ability
 
 ---
 
@@ -179,3 +208,6 @@ This deck relies on the anime card Inland
 | City Horizon | Continuous Spell | [Card Image Link](https://i.imgur.com/o96To9l.jpg) |
 | Optimism | Continuous Spell | [Card Image Link](https://i.imgur.com/pVBB15k.jpg) |
 | Concord | Continuous Spell | [Card Image Link](https://i.imgur.com/oU7GjLl.jpg) |
+| Intention & Rapproachement | Continuous Spell | [Card Image Link](https://i.imgur.com/FKmgCAf.jpg) |
+| Moonlight Entrust | Continuous Spell | [Card Image Link](https://i.imgur.com/wdxSTBr.jpg) |
+| Pure Latent | Continuous Spell | [Card Image Link](https://i.imgur.com/CcJeT8A.jpg) |

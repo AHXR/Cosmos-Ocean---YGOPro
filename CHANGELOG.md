@@ -1,3 +1,13 @@
+1.4 - Level 1 Love (12/6/2017)
+
+- Cosmos Ocean - Dharma cleaned up
+- Cosmos HERO deck added.
+
+New Cards Added (3):
+- Cosmos Ocean - Intention & Rapproachement added
+- Cosmos Ocean - Pure Latent added
+- Cosmos Ocean - Moonlight Entrust
+
 1.3 - Fusion Update (11/24/2017)
 
 Fusion Monster set added. See *Fusion Monsters* in README.md for more information.
