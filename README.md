@@ -22,7 +22,7 @@ assigned to the card. **Cosmos Ocean - Karma** (card above) is an example of suc
 	* [Cosmos Fisherman (The Cosmos Ocean Legendary Fisherman [ANIME])](https://github.com/AHXR/Cosmos-Ocean-YGOPro#cosmos-fisherman-the-cosmos-ocean-legendary-fisherman-anime)
 		* [Strengths](http://github.com/AHXR/Cosmos-Ocean-YGOPro#strengths-2)
 		* [Weaknesses](http://github.com/AHXR/Cosmos-Ocean-YGOPro#weaknesses-2)
-	* [Cosmos HERO (Cosmos Ocean Masked HERO Fusion)](https://github.com/AHXR/Cosmos-Ocean-YGOPro#cosmos-ocean-masked-hero-fusion)
+	* [Cosmos HERO (Cosmos Ocean Masked HERO Fusion)](https://github.com/AHXR/Cosmos-Ocean-YGOPro#cosmos-hero-cosmos-ocean-masked-hero-fusion)
 		* [Strengths](http://github.com/AHXR/Cosmos-Ocean-YGOPro#strengths-3)
 		* [Weaknesses](http://github.com/AHXR/Cosmos-Ocean-YGOPro#weaknesses-4)
 * [Members](http://github.com/AHXR/Cosmos-Ocean-YGOPro#members)
@@ -127,7 +127,7 @@ This deck relies on the anime card **Inland**
 ### Cosmos HERO (Cosmos Ocean Masked HERO Fusion)
 
 <p align="center">
-	<a href="https://youtu.be/gvAwpyJ-Tnc?t=420">vs Constellar</a> - 1.4 PATCH
+	<a href="https://www.youtube.com/watch?v=MtSXYp6HofA">vs Constellar</a> - 1.4 PATCH
 </p>
 
 This deck relies on the Cosmos Ocean 1.4 card **Cosmos Ocean - Moonlight Entrust**
